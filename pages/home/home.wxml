@@ -1,4 +1,7 @@
 <!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+<!-- <text>pages/home/home.wxml</text> -->
 <text class="title">Hello World</text>
 <button size="mini">按钮</button>
+
+<view>知识点1</view>
+<view>哈哈</view>
